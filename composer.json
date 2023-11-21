@@ -1,0 +1,16 @@
+{
+    "name": "bahge/analisys-tools",
+    "description": "Biblioteca de ferramentas para análise de desempenho.",
+    "autoload": {
+        "psr-4": {
+            "Bahge\\AnalisysTools\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Leandro Costa Garcia",
+            "email": "leandrobage@gmail.com"
+        }
+    ],
+    "require": {}
+}
